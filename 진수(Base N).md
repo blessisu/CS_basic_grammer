@@ -2,7 +2,10 @@
 
 > 자주 사용하는 진수 
 
-- 2진수, 8진수, 10진수, 16진수
+- 2진수 : binary number
+- 8진수 : octal number
+- 10진수 : decimal number
+- 16진수 : hexadecimal number
 
 
 
